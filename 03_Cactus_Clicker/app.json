@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Cactus Clicker",
+    "slug": "cactus-clicker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.github.cactusclicker"
+    }
+  }
+}
